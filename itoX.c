@@ -142,5 +142,6 @@ char *hhitoX(va_list list)
 		digitTest /= 16;
 	}
 	result[count] = '\0';
+	
 	return (result);
 }
