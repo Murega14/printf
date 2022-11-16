@@ -5,6 +5,7 @@ Prints text to terminal based on a given format string to standard output. Mimic
 Syntax: _printf(\<format string\>, args...)
 
 ## Current features
+
 Implemented specifiers:
 * Decimal integers (%d)
 * Unsigned decimal integers (%u)
