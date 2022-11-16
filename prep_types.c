@@ -2,6 +2,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <stdio.h>
+
 /**
  * prep_numeric - prepares a numeric string for printf
  *
