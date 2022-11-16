@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include "main.h"
 #include <unistd.h>
+
 /**
  * _strlen - returns length of a string
  *
@@ -9,6 +10,7 @@
  *
  * Return: length of string
  */
+
 int _strlen(char *str)
 {
 	int len = 0;
