@@ -13,6 +13,7 @@
  *
  * Return: number of chars put into buffer
  */
+
 int buffer_const_char(char **format, char *buffer, unsigned int *len)
 {
 	int printtotal = 0;
