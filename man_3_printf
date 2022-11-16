@@ -8,6 +8,7 @@
 .B int _printf(const char
 *\fIformat\fR,...);
 ...
+
 .SH DESCRIPTION
 _printf() will produce output according to the \fIformat\fR as described below. _printf() will print to \fIstdout\fR, the standard output stream;
 
