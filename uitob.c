@@ -3,11 +3,13 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include "main.h"
+
 /**
  * uitob - converts to binary
  * @list: list to convert
  * Return: a string
  */
+
 char *uitob(va_list list)
 {
 	unsigned int uiArg, uiArgTest;
