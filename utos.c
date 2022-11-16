@@ -32,6 +32,7 @@ char *utos(va_list list)
 		digitTest /= 10;
 	}
 	result[count] = '\0';
+	
 	return (result);
 }
 
