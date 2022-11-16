@@ -1,7 +1,6 @@
 #ifndef MAINH
 #define MAINH
 #include <stdarg.h>
-
 /**
  * struct specifier - contains specifiers for printf
  *
