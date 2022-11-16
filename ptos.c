@@ -1,9 +1,11 @@
 #include <stdlib.h>
+
 /**
  * nil - returns the string "(nil)", dynamically allocated
  *
  * Return: output string
  */
+
 char *nil()
 {
 	char *ret, *ptr;
