@@ -8,6 +8,7 @@
  *
  * Return: reversed string
  */
+
 char *rev(char *str)
 {
 	long int i = 0, len;
