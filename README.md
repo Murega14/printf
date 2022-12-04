@@ -7,6 +7,7 @@ Syntax: _printf(\<format string\>, args...)
 ## Current features
 
 Implemented specifiers:
+
 * Decimal integers (%d)
 * Unsigned decimal integers (%u)
 * Strings (%s)
